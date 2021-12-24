@@ -16,4 +16,4 @@ spec:
         - name: server
           image: geodoo/jenkins-test
           ports:
-            - containerPort: 3001
+            - containerPort: 9999
